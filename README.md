@@ -1,5 +1,7 @@
-1. Introduction
-2. Variables
+# Clean code learning
+
+1. [Introduction](#introduction)
+2. [Variables](#variables)
 3. Functions
 4. Object and Data Structures
 5. Classes
@@ -11,9 +13,14 @@
 11. Comments
 12. Translation
 
-INTRODUCTION
+## INTRODUCTION
 
-VARIABLES
+
+
+
+
+
+## VARIABLES
 - Use meaningful names
 Variables' names should display its (unique) characteristic
 
